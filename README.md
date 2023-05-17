@@ -1,6 +1,8 @@
 # Alteam-Superadmin
 
 Talents Management:
+
+
 <img width="1431" alt="Captura de Tela 2023-05-17 às 17 09 07" src="https://github.com/igornog/alteam-superadmin/assets/29484089/af791671-ebd4-40d4-aad0-1c2c6ad6e98a">
 
 <img width="1428" alt="Captura de Tela 2023-05-17 às 17 09 29" src="https://github.com/igornog/alteam-superadmin/assets/29484089/34f2576c-ea6d-4ef3-8e0c-2c9438ce93d7">
